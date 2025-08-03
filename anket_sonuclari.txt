@@ -1,0 +1,14 @@
+Yeni Katılım:
+1. Günlük en az 1 saat ders çalışıyor musunuz? Cevap: evet
+2. Sosyal medyada günde 2 saatten fazla zaman geçiriyor musunuz? Cevap: evet
+3. Kendinizi programlamaya yatkın hissediyor musunuz? Cevap: evet
+Toplam Evet: 3
+Toplam Hayır: 0
+------
+Yeni Katılım:
+1. Günlük en az 1 saat ders çalışıyor musunuz? Cevap: evet
+2. Sosyal medyada günde 2 saatten fazla zaman geçiriyor musunuz? Cevap: evet
+3. Kendinizi programlamaya yatkın hissediyor musunuz? Cevap: evet
+Toplam Evet: 3
+Toplam Hayır: 0
+------
