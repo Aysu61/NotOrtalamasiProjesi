@@ -1,0 +1,6 @@
+mat : 95.0
+turkçe: 88.0
+fen: 56.0
+ınkılap: 67.0
+bilim: 90.0
+Ortalama: 79.2
